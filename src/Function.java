@@ -34,7 +34,6 @@ public class Function {
         return res;
     }
 
-
     public static int func3(int a, int b) {  //
         int res;
         res = a + b;
